@@ -177,7 +177,7 @@ Password: medic123
 
 ## 📄 License
 
-This project is developed for educational purposes as part of CS400 Major Project at BIT Mesra.
+This project is developed for educational purposes 
 
 ---
 
